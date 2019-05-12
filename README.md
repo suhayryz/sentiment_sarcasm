@@ -1,7 +1,8 @@
 # sentiment_sarcasm
-## Sentiment Analysis (SA) with sarcasm detection for bi-lingual Malay and English 
+Sentiment Analysis (SA) with sarcasm detection for bi-lingual
+Malay and English 
 
-### Paper published:
+Paper published:
 
 1: Suhaimin, M. S. M., Hijazi, M. H. A., Alfred, R., & Coenen, F. (2017). 
 Natural language processing based features for sarcasm detection: An investigation using bilingual social media texts. 
