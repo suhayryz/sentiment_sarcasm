@@ -14,3 +14,5 @@ Advanced Science Letters, 28(2), 1388–1392.
 3: Md Suhaimin, M. S., Ahmad Hijazi, M. H., Alfred, R., & Coenen, F.  (2019). 
 Modified Framework for Sarcasm Detection and Classification in Sentiment Analysis. 
 Indonesian Journal of Electrical and Computer Science, 13(3), 1175-1183.
+
+For the dataset information please read dataset.info
