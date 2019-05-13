@@ -1,4 +1,4 @@
-Dataset Information
+Dataset Information: mly1970_sarc(raw).csv
 
 Dataset: Comments acquired from Malay Facebook public pages during 23/10/2015 - 12/11/2015 based on economic related posts.
 
@@ -6,7 +6,7 @@ Dataset annotation: 3 annotators (majority vote):
 (i) sent_majority: the sentiments of the comments (positive and negative) *neutral were omitted. 
 (ii) sarc_majority: the existence of sarcasm on positive and negative comments only (sarcastic and non-sarcastic).
 
-Fleiss’s kappa inter annotator agreement score:
+Fleissâ€™s kappa inter annotator agreement score:
 (1) Sentiment (sent_majority) = 0.71 (substantial agreement) 
 (2) sarcasm (sarc_majority) = 0.47 (moderate agreement)
 
