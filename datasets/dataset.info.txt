@@ -1,4 +1,4 @@
-Dataset Information: mly1970_sarc(raw).csv
+﻿Dataset Information: bilingual_sentiment_sarcastic.csv
 
 Dataset: Comments acquired from Malay Facebook public pages during 23/10/2015 - 12/11/2015 based on economic related posts.
 
