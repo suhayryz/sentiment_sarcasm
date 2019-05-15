@@ -1,5 +1,5 @@
 # sentiment_sarcasm
-## Sentiment Analysis (SA) with sarcasm detection for bi-lingual Malay and English 
+## Sentiment Analysis (SA) with sarcasm detection for bilingual Malay and English 
 
 ### Paper published:
 
